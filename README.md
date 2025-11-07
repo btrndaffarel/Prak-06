@@ -1,8 +1,8 @@
 # 💻 praktikum-laravel-6  
 
 > Proyek Laravel CRUD + Filament - Praktikum Pemrograman Berbasis Web  
-> **Nama:** Ihsan Fadillah  
-> **NPM:** 4523210XXX  
+> **Nama:** Betrand Daffarel
+> **NPM:** 4523210029
 > **Mata Kuliah:** Praktikum PBW  
 
 ---

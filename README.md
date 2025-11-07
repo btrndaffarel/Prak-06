@@ -2,9 +2,7 @@
 
 > Proyek Laravel CRUD + Filament - Praktikum Pemrograman Berbasis Web  
 > **Nama:** Betrand Daffarel
-
 > **NPM:** 4523210029
-
 > **Mata Kuliah:** Praktikum PBW  
 
 ---
